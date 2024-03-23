@@ -1,4 +1,3 @@
-![logo](https://github.com/sumitkr739/sumitkr739/blob/main/Sumit_Kumar_Sinha.png)
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar Sinha</h1>
 <h3 align="center">A passionate mern developer from India</h3>
